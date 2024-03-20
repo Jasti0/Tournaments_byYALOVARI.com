@@ -1,2 +1,3 @@
-# tournaments_from_YALOVARI.com
+# Tournaments_byYALOVARI.com
 Добро пожаловать в турниры YALOVARI!
+Учавствуйте, наслаждайтесь.
